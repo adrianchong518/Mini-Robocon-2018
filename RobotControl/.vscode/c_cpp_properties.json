@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks"
+            ],
+            "includePath": [
+                "/Volumes/CodeWork/School Projects/MiniRobocon2018/RobotControl",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/cores/arduino",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/variants/mega",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Servo/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Adafruit_CircuitPlayground",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Adafruit_CircuitPlayground/utility",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Bridge/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Esplora/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Ethernet/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Firmata",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Firmata/utility",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/GSM/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Keyboard/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/LiquidCrystal/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Mouse/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/RobotIRremote/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Robot_Control/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Robot_Motor/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/SD/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/SpacebrewYun/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Stepper/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/TFT/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/Temboo/src",
+                "/Users/adrianchong/.platformio/packages/framework-arduinoavr/libraries/WiFi/src",
+                "/Users/adrianchong/.platformio/packages/tool-unity",
+                ""
+            ],
+            "compilerPath": "/usr/bin/clang"
+        }
+    ],
+    "version": 4
+}
