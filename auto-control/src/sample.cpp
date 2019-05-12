@@ -259,7 +259,7 @@ void stepper_upward()
     if (digitalRead(stepper_top) == HIGH)
     {
       break;
-    } 
+    }
   }
 }
 
@@ -506,18 +506,18 @@ void shotting_ball_2_wheels()
   Serial.println(lowerSpeed);
   /*  upperSensorRead=digitalRead(upperSensorpin);
   lowerSensorRead=digitalRead(lowerSensorpin);
-  
+
   if(upperSensorRead == 1){
     upperIsWhite = 1;
   }else if(upperSensorRead == 0 && upperIsWhite == 1){
       upperRotation++;
-    upperIsWhite = 0; 
-    }   
+    upperIsWhite = 0;
+    }
     if(lowerSensorRead == 1){
     lowerIsWhite = 1;
   }else if(lowerSensorRead == 0 && lowerIsWhite == 1){
       lowerRotation++;
-    lowerIsWhite = 0; 
+    lowerIsWhite = 0;
   }  /*  */
 }
 
@@ -887,7 +887,6 @@ void setup()
   myservo.write(servo_lower); //Servo begin at 20 degrees positions
 }
 
-int ok_ok = 0;
 void loop()
 {
   if (Serial.available() > 0)
